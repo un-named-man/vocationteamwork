@@ -1,6 +1,5 @@
 # vocationteamwork
 this is a space for g1913 study group contain  Meeting Minutes.
-Click each documents to look through it
   
 # 1.31团建纪要
 ## 1.丹歌惊鸿    -hsr  
@@ -31,7 +30,7 @@ Click each documents to look through it
 ## 9.LoveIs Gone -hsr  
   经常单曲循环  
 ## 10.Escapist -lj   
-## 11.朝汐【泠鸢&双笙】  -YJ  
+## 11.朝汐【泠鸢&双笙】  -yj  
   wqr:调音像V  
   声音很丰富，听起来很累，千万不能写作业听  
   经常听，解析度很高    
