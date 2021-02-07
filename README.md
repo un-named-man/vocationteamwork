@@ -2,6 +2,9 @@
 this is a space for g1913 study group contain  Meeting Minutes.
   
 # 1.31团建纪要
+  
+  此次团建6人全部参加，团建内容为歌单分享。
+  
 ## 1.丹歌惊鸿    -hsr  
   开头写北京城那段很有味道  
 ## 2.heading home pyr （hsr歌单里拿的）  
